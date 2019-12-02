@@ -1,2 +1,7 @@
+## This file contails list of items to be ignored from git changes
+
 README.md
 target/
+.classpath
+	.project
+	.settings/
